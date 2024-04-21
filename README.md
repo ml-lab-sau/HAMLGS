@@ -1,2 +1,2 @@
-# HSAMLGS
-Hypergraph-based Semi-supervised Adaptive Manifold Learning for Gene Selection
+# HAMLGS
+Semi-supervised Hypergraph-based Adaptive Manifold Learning for Gene Selection
